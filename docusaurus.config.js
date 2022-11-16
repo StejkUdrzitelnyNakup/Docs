@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'UdrzitelnyNakup.cz XML Docs',
-  tagline: 'Documentation for UdrzitelnyNakup.cz XML specification',
+  title: 'UdrzitelnyNakup.cz XML Dokumentace',
+  tagline: 'UdrzitelnyNakup.cz XML Dokumentace',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -47,9 +47,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'UdrzitelnyNakup.cz XML Docs',
+        title: 'UdrzitelnyNakup.cz XML Dokumentace',
         logo: {
-          alt: 'UdrzitelnyNakup.cz XML Docs',
+          alt: 'UdrzitelnyNakup.cz XML Dokumentace',
           src: 'img/logo.svg',
         },
         items: [],

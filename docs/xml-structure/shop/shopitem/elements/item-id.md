@@ -1,13 +1,13 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# PRODUCT_NAME
+# ITEM_ID
 
-Element `PRODUCT_NAME` představuje název produktu. 
+Element `ITEM_ID` představuje vaše interní ID produktu. 
 
 :::note Omezení
-Maximálně **150 znaků**
+Maximálně **60 znaků**
 :::
 
 :::caution Upozornění

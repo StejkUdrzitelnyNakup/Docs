@@ -7,7 +7,7 @@ sidebar_position: 1
 ```xml
 <SHOP>
     <SHOPITEM>
-        <ITEM_ID>1</ITEM_ID>
+        <ITEM_ID><![CDATA[1]]></ITEM_ID>
         <EAN>1234567890123</EAN>
         <PRODUCT_NAME><![CDATA[Alnatura Rýžový nápoj neslazený Bio 1 l]]></PRODUCT_NAME>
         <DESCRIPTION><![CDATA[<p>Rostlinná alternativa neslazeného mléka vyrobená z té nejlepší rýže v BIO kvalitě.</p>
