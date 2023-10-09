@@ -33,6 +33,7 @@ sidebar_position: 1
         <URL><![CDATA[https://www.folly.cz/potraviny-caje-a-napoje/alnatura-ryzovy-napoj-neslazeny-bio-1-l/]]></URL>
         <CATEGORY><![CDATA[Potraviny | Čaje a nápoje]]></CATEGORY>
         <CATEGORY_UNIFIED><![CDATA[Zdravé jídlo a potraviny | Káva a čaje]]></CATEGORY_UNIFIED>
+        <MANUFACTURER><![CDATA[Sunto]]></MANUFACTURER>
         <PARAMS>
             <CERTIFICATION>
                 <ITEM>V-Label</ITEM>
