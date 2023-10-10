@@ -1,9 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Shoptet
-Pro napojení na Shoptet je potřeba vytvořit XML feed, který bude obsahovat všechny produkty, které chcete zobrazit na Udržitelným nákuou.
+Pro napojení na Shoptet je potřeba vytvořit XML feed, který bude obsahovat všechny produkty, které chcete zobrazit na Udržitelném nákupu.
 
 ## Instalace XML feedu
 1. Přihlašte se do administrace vašeho eshopu
